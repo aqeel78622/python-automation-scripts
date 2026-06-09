@@ -17,14 +17,14 @@ Converts PDF files to editable Word documents (.docx), preserving text and page 
 Bash
 Requirements:
 Bash
-⚙️ Installation
+#Installation
 Make sure Python 3.7+ is installed
 Clone this repository:
 Bash
 Install dependencies:
 Bash
-💼 Hire Me
+#Hire Me
 Need a custom Python script or automation tool?
-Find me on Fiverr: [Your Fiverr Link Here]
-📄 License
+Find me on Fiverr: https://www.fiverr.com/s/YRpywXR
+ #License
 MIT License — free to use and modify.
